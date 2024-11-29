@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khoi Nguyen</h1>
 <h3 align="center">Software Engineering Student Focusing On Full-Stack Software Development Specializes in Backend</h3>
 
-- 👨‍💻 All of my projects are available at [https://khoinguyen.dev/](https://khoinguyen.dev/)
+- 👨‍💻 Here is the link to my personal porfolio [https://khoinguyen.dev/](https://khoinguyen.dev/)
 
 - 📫 How to reach me **knguyen4122@gmail.com**
 
